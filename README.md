@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://kuray.dev/assets/images/kuraykaraaslan.jpeg" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Kuray Karaaslan, a full-time full-stack freelance developer && structural engineer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
