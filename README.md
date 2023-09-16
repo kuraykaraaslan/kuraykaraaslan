@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on [Laravel DMS](https://github.com/kuraykaraaslan/document-management). That is a laravel based Document Management System that has Next.js based [Laravel DMS Frontend](https://github.com/kuraykaraaslan/document-management-frontend)
   
 
-- 🌱 I’m currently learning React.native  
+- 🌱 I’m currently learning AWS 
   
 
-- ⚡ Fun fact: I root everything  
+- ⚡ Fun fact: I root every single devices 
   
 
 <br/>  
