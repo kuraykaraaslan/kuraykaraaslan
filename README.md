@@ -1,7 +1,7 @@
 ### <div align="center">I'm Kuray Karaaslan, a full-time full-stack freelance developer && structural engineer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Control View Cube](https://github.com/kuraykaraaslan/control-view-cube). That is a react component for  [three.js](https://github.com/mrdoob/three.js), aims to bring 3d control view cube that a CAD program has.  
+- 🔭 I’m currently working on [Laravel DMS](https://github.com/kuraykaraaslan/document-management). That is a laravel based Document Management System that has Next.js based [Laravel DMS Frontend](https://github.com/kuraykaraaslan/document-management-frontend)
   
 
 - 🌱 I’m currently learning React.native  
