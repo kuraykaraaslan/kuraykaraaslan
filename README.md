@@ -1,6 +1,14 @@
 ### <div align="center">I'm Kuray Karaaslan, a full-time full-stack freelance developer && structural engineer 👨‍💻 working remotely since 2022 🚀</div>  
   
+    <pre>
+     _  __ _     ____  ____ ___  _ ____  _____ _    
+    / |/ // \ /\/  __\/  _ \\  \///  _ \/  __// \ |\
+    |   / | | |||  \/|| / \| \  / | | \||  \  | | //
+    |   \ | \_/||    /| |-|| / /__| |_/||  /_ | \// 
+    \_|\_\\____/\_/\_\\_/ \|/_/ \/\____/\____\\__/  
+    </pre>
 
+    
 - 🔭 I’m currently working on [Laravel DMS](https://github.com/kuraykaraaslan/DocuManPHP). That is a laravel based Document Management System that has Next.js based [Laravel DMS Frontend](https://github.com/kuraykaraaslan/DocuManJS)
   
 
