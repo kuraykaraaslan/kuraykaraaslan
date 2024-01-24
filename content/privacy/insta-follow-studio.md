@@ -1,3 +1,8 @@
+---
+title: Instagram Follow Studio Privacy Policy
+description: Privacy Policy for Instagram Follow Studio
+---
+
 # Instagram Follow Studio Privacy Policy
 
 Last updated: [2024-01-24]
