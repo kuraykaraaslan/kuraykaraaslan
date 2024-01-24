@@ -1,6 +1,6 @@
 # Instagram Follow Studio Privacy Policy
 
-Last updated: [Date]
+Last updated: [2024-01-24]
 
 Welcome to Instagram Follow Studio! This Chrome extension is designed to enhance your Instagram experience. Before using our extension, please read this Privacy Policy to understand how we collect, use, and safeguard your personal information.
 
@@ -59,7 +59,7 @@ Instagram Follow Studio is not intended for children under 13 years of age. We d
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [your-email@example.com].
+If you have any questions or concerns about this Privacy Policy, please contact us at [inf@kuray.dev].
 
 ## Legal Disclaimer
 
@@ -67,6 +67,12 @@ This Privacy Policy is for informational purposes only and does not constitute l
 
 By using Instagram Follow Studio, you agree to the terms outlined in this Privacy Policy.
 
-[End of Privacy Policy]
+## Changes to this Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 
