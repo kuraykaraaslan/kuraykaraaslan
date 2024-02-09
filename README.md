@@ -1,21 +1,21 @@
 <div align="center" style="color: green;">
 
-     _  __ _     ____  ____ ___  _ ____  _____ _    
-    / |/ // \ /\/  __\/  _ \\  \///  _ \/  __// \ |\
-    |   / | | |||  \/|| / \| \  / | | \||  \  | | //
-    |   \ | \_/||    /| |-|| / /__| |_/||  /_ | \// 
-    \_|\_\\____/\_/\_\\_/ \|/_/ \/\____/\____\\__/  
+     _  __ _   _  ____  _____ ___  __   ____  _____ _   _ 
+    / |/ // \ / \/  __\/  _  \\  \/ /  /  _ \/  __// \ | \
+    |   / | | | ||  \/|| / \ | \   /   | | \||  \  | | / /
+    |   \ | \_/ ||    /| |-| | /  / __ | |_/||  /_ | \/ / 
+    \_|\_\\_____/\_/\_\\_/ \_|/_ /  \/ \____/\____\\___/  
 
 </div>
 
-### <div align="center">I'm Kuray Karaaslan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>
+### <div align="center">I'm Kuray Karaaslan,a self-taught full-stack developer with a passion for building things. 👨‍💻 i have experience in react, java and more.i'm currently looking for a job. 🚀</div>
 
-
+- 🏢 Hire me and see the magic!
 
 - 🔭 I’m currently working on URL Shortener [tny.ist](https://tny.ist).
 
 
-- 🌱 I’m currently learning Java.
+- 🌱 I have a  [fiverr profile](https://www.fiverr.com/kuraykaraaslan).
   
 
 - ⚡ Fun fact: I Have a 3D Printer and I love to print things.
@@ -26,6 +26,7 @@
 
 - 📝 My Resume: [resume.kuray.dev](https://resume.kuray.dev).
   
+- 📫 My Public Key: [resume.kuray.dev](/kuraykaraaslan.pub)
 
 <br/>  
 
