@@ -8,7 +8,7 @@
 
 </div>
 
-### <div align="center">I'm Kuray Karaaslan, a self-taught full-stack developer with a passion for building things. 👨‍💻 I have experience in React, java and more.Currently seeking new opportunities. 🚀</div>
+### <div align="center">I'm Kuray Karaaslan, a self-taught full-stack developer with a passion for building things. 👨‍💻 I have experience in React, java and more. Currently seeking new opportunities. 🚀</div>
 
 - 🏢 Hire me and see the magic!
 
