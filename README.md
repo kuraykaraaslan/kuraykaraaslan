@@ -21,7 +21,7 @@
 - ⚡ Fun fact: I Have a 3D Printer and I love to print things.
 
 
-- 📫 How to reach me: [kuray.dev](https://kuray.dev).
+- 📫 How to reach me: [kuray.dev](https://kuray.dev?s=GithubInfo).
 
 
 - 📝 My Resume: [resume.kuray.dev](https://resume.kuray.dev).
