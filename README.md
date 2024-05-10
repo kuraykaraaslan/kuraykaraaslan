@@ -8,9 +8,7 @@
 
 </div>
 
-<div style="itext-align: left;">
-<img src="/static/typing.gif" align="right" height="40" />
-</div>
+![Typing](/static/typing.gif)
 
 ### <p align="left">I'm Kuray Karaaslan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</p>
 
