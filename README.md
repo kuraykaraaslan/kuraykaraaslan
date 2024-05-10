@@ -8,7 +8,7 @@
 
 </div>
 
-<div align="left">
+<div style="itext-align: left;">
 <img src="/static/typing.gif" align="right" height="40" />
 </div>
 
