@@ -8,7 +8,7 @@
 
 </div>
 
-![Typing](/static/typing.gif)
+![Typing](/static/typingcrop.gif)
 
 ### <p align="left">I'm Kuray Karaaslan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</p>
 
