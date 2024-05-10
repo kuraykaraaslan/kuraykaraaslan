@@ -10,7 +10,7 @@
 
 <img src="/static/typing.gif" align="right" height="40" />
 
-### <div align="center">I'm Kuray Karaaslan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>
+### <p align="left">I'm Kuray Karaaslan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</p>
 
 
 - 🏢 Hire me and see the magic!
