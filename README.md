@@ -15,7 +15,7 @@
 
 - 🏢 Hire me and see the magic!
 
-- 🔭 I’m currently working on URL Shortener [tny.ist](https://tny.ist).
+- 🔭 I’m currently working on IoT Devices.
 
 
 - 🌱 I have a  [fiverr profile](https://www.fiverr.com/kuraykaraaslan).
@@ -29,7 +29,7 @@
 
 - 📝 My Resume: [resume.kuray.dev](https://resume.kuray.dev).
   
-- 📫 My Public Key: [resume.kuray.dev](/kuraykaraaslan.pub)
+- 📫 My Public Key: [kuraykaraaslan.pub](/kuraykaraaslan.pub)
 
 <br/>  
 
