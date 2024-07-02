@@ -1,10 +1,12 @@
+![Banner](/static/banner.png)
+
 <div align="center" style="color: green;">
 
      _  __ _   _  ____  _____ ___  __   ____  _____ _   _ 
     / |/ // \ / \/  __\/  _  \\  \/ /  /  _ \/  __// \ | \
     |   / | | | ||  \/|| / \ | \   /   | | \||  \  | | / /
     |   \ | \_/ ||    /| |-| | /  / __ | |_/||  /_ | \/ / 
-    \_|\_\\_____/\_/\_\\_/ \_|/_ /  \/ \____/\____\\___/  
+    \_|\_\\_____/\_/\_\\_/ \_|/_ /  \/ \____/\____\\___/  S
 
 </div>
 
@@ -20,7 +22,7 @@
 
 - 🌱 I have a  [fiverr profile](https://www.fiverr.com/kuraykaraaslan).
   
-
+  
 - ⚡ Fun fact: I Have a 3D Printer and I love to print things.
 
 
