@@ -9,8 +9,6 @@
     \_|\_\\_____/\_/\_\\_/ \_|/_ /  \/ \____/\____\\___/  
 </div>
 
-![Typing](/static/typingcrop.gif)
-
 ### <p align="left">I am a self-taught and highly motivated full-stack developer who working remotely since 2022</p>
 
 
