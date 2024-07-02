@@ -1,14 +1,5 @@
 ![Banner](/static/banner.png)
 
-<div align="center" style="color: green;">
-
-     _  __ _   _  ____  _____ ___  __   ____  _____ _   _ 
-    / |/ // \ / \/  __\/  _  \\  \/ /  /  _ \/  __// \ | \
-    |   / | | | ||  \/|| / \ | \   /   | | \||  \  | | / /
-    |   \ | \_/ ||    /| |-| | /  / __ | |_/||  /_ | \/ / 
-    \_|\_\\_____/\_/\_\\_/ \_|/_ /  \/ \____/\____\\___/  
-</div>
-
 ### <p align="left">I am a self-taught and highly motivated full-stack developer who working remotely since 2022</p>
 
 
