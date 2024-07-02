@@ -6,13 +6,12 @@
     / |/ // \ / \/  __\/  _  \\  \/ /  /  _ \/  __// \ | \
     |   / | | | ||  \/|| / \ | \   /   | | \||  \  | | / /
     |   \ | \_/ ||    /| |-| | /  / __ | |_/||  /_ | \/ / 
-    \_|\_\\_____/\_/\_\\_/ \_|/_ /  \/ \____/\____\\___/  S
-
+    \_|\_\\_____/\_/\_\\_/ \_|/_ /  \/ \____/\____\\___/  
 </div>
 
 ![Typing](/static/typingcrop.gif)
 
-### <p align="left">I'm Kuray Karaaslan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</p>
+### <p align="left">I am a self-taught and highly motivated full-stack developer who working remotely since 2022</p>
 
 
 - 🏢 Hire me and see the magic!
