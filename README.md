@@ -17,7 +17,7 @@
 - 📫 How to reach me: [kuray.dev](https://kuray.dev?s=GithubInfo).
 
 
-- 📝 My Resume: [resume.kuray.dev](https://resume.kuray.dev).
+- 📝 My Resume: [PDF](https://drive.google.com/file/d/17Ya5AC2nvcvccN-bS2pFsKFIm5v8dcWN/view?usp=drive_link).
   
 - 📫 My Public Key: [kuraykaraaslan.pub](/kuraykaraaslan.pub)
 
