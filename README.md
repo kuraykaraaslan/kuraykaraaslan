@@ -27,9 +27,9 @@
 
 <table style="width:100%">
     <tr bgcolor="#c3c8d7">
-        <th style="width:33.33%; background-color: black; color: white; align-items: center; justify-content: center;text-align: center">Frontend</th>
-        <th style="width:33.33%; background-color: black; color: white; align-items: center; justify-content: center;text-align: center">Backend</th>
-        <th style="width:33.33%; background-color: black; color: white; align-items: center; justify-content: center;text-align: center">Tools</th>
+        <th style="width:33.33%; color: white; align-items: center; justify-content: center;text-align: center">Frontend</th>
+        <th style="width:33.33%; color: white; align-items: center; justify-content: center;text-align: center">Backend</th>
+        <th style="width:33.33%; color: white; align-items: center; justify-content: center;text-align: center">Tools</th>
     </tr>
     <tr style="align-items: center; justify-content: center;text-align: center; background-color: #c3c8d7">
         <td><img src="/static/svg/react.svg" alt="React" height="50"/>
