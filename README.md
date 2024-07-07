@@ -26,7 +26,7 @@
 ### <p align="left">Languages and Tools:</p>
 
 <table style="width:100%">
-    <tr>
+    <tr bgcolor="#c3c8d7">
         <th style="width:33.33%; background-color: black; color: white; align-items: center; justify-content: center;text-align: center">Frontend</th>
         <th style="width:33.33%; background-color: black; color: white; align-items: center; justify-content: center;text-align: center">Backend</th>
         <th style="width:33.33%; background-color: black; color: white; align-items: center; justify-content: center;text-align: center">Tools</th>
