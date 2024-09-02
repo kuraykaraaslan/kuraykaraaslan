@@ -95,13 +95,6 @@
 </a>  
 </div>  
 
-<br/>
-
-### <p align="left">GitHub Stats:</p>
-
-<div align="center"><img src="https://myreadme.vercel.app/api/embed/kuraykaraaslan?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-</div>  
-
 <br/>  
 
 <div align="center" style="color: green;">
