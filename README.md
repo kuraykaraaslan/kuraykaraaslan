@@ -15,7 +15,7 @@
 
 ### <p align="left">Languages and Tools:</p>
 
-<table><tr><td valign="top" width="30%">
+<table><tr><td valign="top" width="30%" style="display: flex; justify-content: space-around; flex-wrap: wrap">
 
 ### Frontend  
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap">
@@ -30,13 +30,13 @@
 
 </div>
 
-</td><td valign="top" width="30%">
+</td><td valign="top" width="30%" style="display: flex; justify-content: space-around; flex-wrap: wrap">
 
 ### Backend  
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap">
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
   
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -45,7 +45,7 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
 </div>
 
-</td><td valign="top" width="30%">
+</td><td valign="top" width="30%" style="display: flex; justify-content: space-around; flex-wrap: wrap">
 
 
 
