@@ -3,24 +3,18 @@
 ### <p align="left">I am a self-taught and highly motivated full-stack developer who working remotely since 2022</p>
 
 
-- Hire me and see the magic!
-
-- I’m currently working on IoT Devices.
-
-
-- I have a  [fiverr profile](https://www.fiverr.com/kuraykaraaslan).
+- **Proudly Open Source Contributor**
+- I’m currently working on **IoT Projects**.
+- **Web Development**, **Mobile Development**, and **IoT** are my main interests.
+- My Passion is **Java**, **React**, **Next.js**, or anything related to **software development**.
+- I have  **[fiverr profile](https://www.fiverr.com/kuraykaraaslan)** and **[upwork profile](https://www.upwork.com/freelancers/~01694c65c4ad50b809)** for freelance work.
+- I Have a **3D Printer** and I love to print things.
+- I’m currently learning about **Machine Learning** and **AI**.
+- I’m looking to collaborate on **Open Source Projects**.
+- My portfolio: **[kuray.dev](https://kuray.dev?s=GithubInfo)**
+- My Resume: **[PDF](https://drive.google.com/file/d/17Ya5AC2nvcvccN-bS2pFsKFIm5v8dcWN/view?usp=drive_link)**
   
-  
-- Fun fact: I Have a 3D Printer and I love to print things.
-
-
-- How to reach me: [kuray.dev](https://kuray.dev?s=GithubInfo).
-
-
-- My Resume: [PDF](https://drive.google.com/file/d/17Ya5AC2nvcvccN-bS2pFsKFIm5v8dcWN/view?usp=drive_link).
-  
-- My Public Key: [kuraykaraaslan.pub](/kuraykaraaslan.pub)
-
+- My Public Key: **[kuraykaraaslan.pub](/kuraykaraaslan.pub)**
 <br/>  
 
 ### <p align="left">Languages and Tools:</p>
@@ -37,7 +31,6 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
@@ -47,22 +40,21 @@
 
 ### Backend  
 <div align="center">  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### DevOps  
+### Tools
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -95,7 +87,13 @@
 </a>  
 </div>  
 
-<br/>  
+<br/> 
+
+### <p align="left">Github Stats:</p>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kuraykaraaslan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>
 
 <div align="center" style="color: green;">
 
