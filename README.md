@@ -41,7 +41,7 @@
 
 
 ### Backend  
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap">
+<div align="left" style="display: flex; justify-content: space-around; flex-wrap: wrap">
 <a href="https://www.java.com/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /></a>  
