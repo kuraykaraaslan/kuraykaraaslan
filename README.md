@@ -13,6 +13,11 @@
 - My Public Key: **[kuraykaraaslan.pub](/kuraykaraaslan.pub)**
 <br/>  
 
+### My Introduction Video
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oJN50oOlW-c/0.jpg)](https://www.youtube.com/watch?v=oJN50oOlW-c)
+
+
 ### <p align="left">Languages and Tools:</p>
 
 <table><tr><td valign="top" width="30%" style="display: flex; justify-content: space-around; flex-wrap: wrap">
