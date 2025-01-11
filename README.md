@@ -73,7 +73,7 @@
 ### Last Blog Posts:
 
 <a href="https://kuray.dev/blog" target="_blank">
-<img src=https://kuray.dev/api/widget/posts alt=github style="margin-bottom: 5px;" />
+<img src="https://kuray.dev/api/widget/posts" alt="posts" style="margin-bottom: 5px;" />
 </a>
 
 
