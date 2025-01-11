@@ -15,7 +15,7 @@
 
 ### My Introduction Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oJN50oOlW-c/0.jpg)](https://www.youtube.com/watch?v=oJN50oOlW-c)
+[![Kuray Karaaslan](https://img.youtube.com/vi/oJN50oOlW-c/0.jpg)](https://www.youtube.com/watch?v=oJN50oOlW-c)
 
 
 ### <p align="left">Languages and Tools:</p>
