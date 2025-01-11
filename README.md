@@ -65,6 +65,12 @@
 
 <br/>  
 
+### Last Blog Posts
+
+<a href="https://kuray.dev/blog" target="_blank">
+<img src=https://kuray.dev/api/widget/posts alt=github style="margin-bottom: 5px;" />
+</a>
+
 
 ### <p align="left">Connect with me:</p>
 <div align="center">
