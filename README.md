@@ -1,115 +1,81 @@
 ![Banner](static/img/banner.png)
 
-### <p align="left">I am a self-taught and highly motivated full-stack developer who working remotely since 2022</p>
+## Kuray Karaaslan — Full-Stack Software Engineer
 
+I build **multi-tenant SaaS products** and **enterprise web applications** — from architecture to deployment.  
+Based in Turkey. Available for consulting and contract work.
 
-- **Proudly Open Source Contributor**
-- I’m currently working on **IoT Projects**.
-- I have  **[fiverr profile](https://www.fiverr.com/kuraykaraaslan)** and **[upwork profile](https://www.upwork.com/freelancers/~01694c65c4ad50b809)** for freelance work.
-- I Have a **3D Printer** and I love to print things.
+> Currently open to **long-term contracts** and **technical partnerships**.  
+> → [kuray.dev](https://kuray.dev?s=GithubInfo) · [kuraykaraaslan@gmail.com](mailto:kuraykaraaslan@gmail.com)
 
-- My portfolio: **[kuray.dev](https://kuray.dev?s=GithubInfo)**
-- My Public Key: **[kuraykaraaslan.pub](/kuraykaraaslan.pub)**
-<br/>  
+---
 
-### My Introduction Video
+### What I Build
 
-[![Kuray Karaaslan](https://img.youtube.com/vi/oJN50oOlW-c/0.jpg)](https://www.youtube.com/watch?v=oJN50oOlW-c)
+- **SaaS Platforms** — Multi-tenant architecture, subscription billing, SSO, RBAC
+- **Enterprise Web Apps** — Next.js App Router, Spring Boot, REST & event-driven APIs  
+- **Mobile Apps** — Expo / React Native, cross-platform
+- **Internal Tools** — Admin dashboards, reporting, workflow automation
 
+---
 
-### <p align="left">Languages and Tools:</p>
+### Open Source
 
-<table><tr><td valign="top" width="30%" style="display: flex; justify-content: space-around; flex-wrap: wrap">
+| Repo | Description |
+|---|---|
+| [next-boilerplate](https://github.com/kuraykaraaslan/next-boilerplate) | Multi-tenant SaaS starter — auth, payments, notifications, RBAC, dual-DB |
+| [expo-react-native-boilerplate](https://github.com/kuraykaraaslan/expo-react-native-boilerplate) | Expo / React Native starter — Expo Router, Zustand, NativeWind |
+| [express-boilerplate](https://github.com/kuraykaraaslan/express-boilerplate) | Express + TypeScript backend starter — routing, middleware, error handling |
+| [KUIReact](https://github.com/kuraykaraaslan/KUIReact) | Next.js UI component library |
+| [KUIExpress](https://github.com/kuraykaraaslan/KUIExpress) | Express + EJS UI component library |
 
-### Frontend  
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap">
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>    
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a> 
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+---
 
-</div>
+### Stack
 
-</td><td valign="top" width="30%" style="display: flex; justify-content: space-around; flex-wrap: wrap">
+**Frontend**  
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Backend  
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap">
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
-</div>
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-</td><td valign="top" width="30%" style="display: flex; justify-content: space-around; flex-wrap: wrap">
+**Mobile**  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000?style=flat-square&logo=expo)
 
+**Data & Infra**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+---
 
-### Tools
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap">
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-</div>
-
-
-</td></tr></table>  
-
-<br/>  
-
-### Last Blog Posts:
+### Latest Posts
 
 <a href="https://kuray.dev/blog" target="_blank">
-<img src="https://kuray.dev/api/widget/posts" alt="posts" style="margin-bottom: 5px;" />
+<img src="https://kuray.dev/api/widget/posts" alt="posts" />
 </a>
 
+---
 
-### <p align="left">Connect with me:</p>
-<div align="center">
+### Connect
+
+<a href="https://linkedin.com/in/kuraykaraaslan" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="https://github.com/kuraykaraaslan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://twitter.com/kuraykaraaslan" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/kuraykaraaslan" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/kuraykaraaslan" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/kuraykaraaslan" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-<br/> 
-
-### <p align="left">Github Stats:</p>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kuraykaraaslan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>
-
-<div align="center" style="color: green;">
-
-     _  __ _   _  ____  _____ ___  __   ____  _____ _   _ 
-    / |/ // \ / \/  __\/  _  \\  \/ /  /  _ \/  __// \ | \
-    |   / | | | ||  \/|| / \ | \   /   | | \||  \  | | / /
-    |   \ | \_/ ||    /| |-| | /  / __ | |_/||  /_ | \/ / 
-    \_|\_\\_____/\_/\_\\_/ \_|/_ /  \/ \____/\____\\___/  
-    
-</div>
 
 ![Footer](static/img/footer.png)
