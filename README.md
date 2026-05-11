@@ -19,6 +19,47 @@ Based in Turkey. Available for consulting and contract work.
 
 ---
 
+### Component Libraries
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### KUIReact
+
+<a href="https://github.com/kuraykaraaslan/01_NextJS_Components">
+<img src="https://raw.githubusercontent.com/kuraykaraaslan/01_NextJS_Components/main/public/assets/img/screenshot-commerce.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/kuraykaraaslan/01_NextJS_Components/main/public/assets/img/screenshot-fintech.png" width="49%"/>
+<br/>
+<img src="https://raw.githubusercontent.com/kuraykaraaslan/01_NextJS_Components/main/public/assets/img/screenshot-social.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/kuraykaraaslan/01_NextJS_Components/main/public/assets/img/screenshot-travel.png" width="49%"/>
+</a>
+
+**Next.js 16 · React 19 · Tailwind 4**  
+15 industry themes · 100+ components
+
+</td>
+<td width="50%" align="center">
+
+### KUIExpress
+
+<a href="https://github.com/kuraykaraaslan/02_EJS_Components">
+<img src="https://raw.githubusercontent.com/kuraykaraaslan/02_EJS_Components/main/public/assets/img/screenshot-common.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/kuraykaraaslan/02_EJS_Components/main/public/assets/img/screenshot-invoice.png" width="49%"/>
+<br/>
+<img src="https://raw.githubusercontent.com/kuraykaraaslan/02_EJS_Components/main/public/assets/img/screenshot-modem.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/kuraykaraaslan/02_EJS_Components/main/public/assets/img/screenshot-api-doc.png" width="49%"/>
+</a>
+
+**Express · EJS · Node.js · Tailwind 4**  
+5 domain themes · 150+ components
+
+</td>
+</tr>
+</table>
+
+---
+
 ### Open Source
 
 | Repo | Description |
@@ -26,8 +67,8 @@ Based in Turkey. Available for consulting and contract work.
 | [next-boilerplate](https://github.com/kuraykaraaslan/next-boilerplate) | Multi-tenant SaaS starter — auth, payments, notifications, RBAC, dual-DB |
 | [expo-react-native-boilerplate](https://github.com/kuraykaraaslan/expo-react-native-boilerplate) | Expo / React Native starter — Expo Router, Zustand, NativeWind |
 | [express-boilerplate](https://github.com/kuraykaraaslan/express-boilerplate) | Express + TypeScript backend starter — routing, middleware, error handling |
-| [KUIReact](https://github.com/kuraykaraaslan/KUIReact) | Next.js UI component library |
-| [KUIExpress](https://github.com/kuraykaraaslan/KUIExpress) | Express + EJS UI component library |
+| [KUIReact](https://github.com/kuraykaraaslan/01_NextJS_Components) | Next.js UI component library |
+| [KUIExpress](https://github.com/kuraykaraaslan/02_EJS_Components) | Express + EJS UI component library |
 
 ---
 
