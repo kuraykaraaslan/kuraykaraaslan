@@ -27,13 +27,9 @@ Based in Turkey. Available for consulting and contract work.
 
 ### KUIReact
 
-<a href="https://github.com/kuraykaraaslan/01_NextJS_Components">
-<img src="https://raw.githubusercontent.com/kuraykaraaslan/01_NextJS_Components/main/public/assets/img/screenshot-commerce.png" width="49%"/>
-<img src="https://raw.githubusercontent.com/kuraykaraaslan/01_NextJS_Components/main/public/assets/img/screenshot-fintech.png" width="49%"/>
+<a href="https://next-js-components.kuray.dev/theme/commerce"><img src="https://raw.githubusercontent.com/kuraykaraaslan/01_NextJS_Components/main/public/assets/img/screenshot-commerce.png" width="49%"/></a><a href="https://next-js-components.kuray.dev/theme/fintech"><img src="https://raw.githubusercontent.com/kuraykaraaslan/01_NextJS_Components/main/public/assets/img/screenshot-fintech.png" width="49%"/></a>
 <br/>
-<img src="https://raw.githubusercontent.com/kuraykaraaslan/01_NextJS_Components/main/public/assets/img/screenshot-social.png" width="49%"/>
-<img src="https://raw.githubusercontent.com/kuraykaraaslan/01_NextJS_Components/main/public/assets/img/screenshot-travel.png" width="49%"/>
-</a>
+<a href="https://next-js-components.kuray.dev/theme/social"><img src="https://raw.githubusercontent.com/kuraykaraaslan/01_NextJS_Components/main/public/assets/img/screenshot-social.png" width="49%"/></a><a href="https://next-js-components.kuray.dev/theme/travel"><img src="https://raw.githubusercontent.com/kuraykaraaslan/01_NextJS_Components/main/public/assets/img/screenshot-travel.png" width="49%"/></a>
 
 **Next.js 16 · React 19 · Tailwind 4**  
 15 industry themes · 100+ components
@@ -43,13 +39,9 @@ Based in Turkey. Available for consulting and contract work.
 
 ### KUIExpress
 
-<a href="https://github.com/kuraykaraaslan/02_EJS_Components">
-<img src="https://raw.githubusercontent.com/kuraykaraaslan/02_EJS_Components/main/public/assets/img/screenshot-common.png" width="49%"/>
-<img src="https://raw.githubusercontent.com/kuraykaraaslan/02_EJS_Components/main/public/assets/img/screenshot-invoice.png" width="49%"/>
+<a href="https://ejs-components.kuray.dev/theme/common"><img src="https://raw.githubusercontent.com/kuraykaraaslan/02_EJS_Components/main/public/assets/img/screenshot-common.png" width="49%"/></a><a href="https://ejs-components.kuray.dev/theme/invoice"><img src="https://raw.githubusercontent.com/kuraykaraaslan/02_EJS_Components/main/public/assets/img/screenshot-invoice.png" width="49%"/></a>
 <br/>
-<img src="https://raw.githubusercontent.com/kuraykaraaslan/02_EJS_Components/main/public/assets/img/screenshot-modem.png" width="49%"/>
-<img src="https://raw.githubusercontent.com/kuraykaraaslan/02_EJS_Components/main/public/assets/img/screenshot-api-doc.png" width="49%"/>
-</a>
+<a href="https://ejs-components.kuray.dev/theme/modem"><img src="https://raw.githubusercontent.com/kuraykaraaslan/02_EJS_Components/main/public/assets/img/screenshot-modem.png" width="49%"/></a><a href="https://ejs-components.kuray.dev/theme/api-doc"><img src="https://raw.githubusercontent.com/kuraykaraaslan/02_EJS_Components/main/public/assets/img/screenshot-api-doc.png" width="49%"/></a>
 
 **Express · EJS · Node.js · Tailwind 4**  
 5 domain themes · 150+ components
