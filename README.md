@@ -54,7 +54,7 @@ Based in Turkey. Available for consulting and contract work.
 
 ### Open Source
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" align="center">
 
