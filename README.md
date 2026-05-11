@@ -54,13 +54,40 @@ Based in Turkey. Available for consulting and contract work.
 
 ### Open Source
 
-| Repo | Description |
-|---|---|
-| [next-boilerplate](https://github.com/kuraykaraaslan/next-boilerplate) | Multi-tenant SaaS starter — auth, payments, notifications, RBAC, dual-DB |
-| [expo-react-native-boilerplate](https://github.com/kuraykaraaslan/expo-react-native-boilerplate) | Expo / React Native starter — Expo Router, Zustand, NativeWind |
-| [express-boilerplate](https://github.com/kuraykaraaslan/express-boilerplate) | Express + TypeScript backend starter — routing, middleware, error handling |
-| [KUIReact](https://github.com/kuraykaraaslan/01_NextJS_Components) | Next.js UI component library |
-| [KUIExpress](https://github.com/kuraykaraaslan/02_EJS_Components) | Express + EJS UI component library |
+<table>
+<tr>
+<td width="33%" align="center">
+
+<a href="https://github.com/kuraykaraaslan/next-boilerplate">
+<img src="https://img.shields.io/badge/next--boilerplate-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</a>
+
+**Multi-tenant SaaS starter**  
+<sub>auth · payments · RBAC · dual-DB</sub>
+
+</td>
+<td width="33%" align="center">
+
+<a href="https://github.com/kuraykaraaslan/expo-react-native-boilerplate">
+<img src="https://img.shields.io/badge/expo--boilerplate-000?style=for-the-badge&logo=expo&logoColor=white" />
+</a>
+
+**Expo / React Native starter**  
+<sub>Expo Router · Zustand · NativeWind</sub>
+
+</td>
+<td width="34%" align="center">
+
+<a href="https://github.com/kuraykaraaslan/express-boilerplate">
+<img src="https://img.shields.io/badge/express--boilerplate-000?style=for-the-badge&logo=express&logoColor=white" />
+</a>
+
+**Express + TypeScript starter**  
+<sub>routing · middleware · error handling</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
