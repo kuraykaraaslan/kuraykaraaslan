@@ -59,6 +59,8 @@ Based in Turkey. Available for consulting and contract work.
 | [next-boilerplate](https://github.com/kuraykaraaslan/next-boilerplate) | Multi-tenant SaaS starter — auth, payments, notifications, RBAC, dual-DB |
 | [expo-react-native-boilerplate](https://github.com/kuraykaraaslan/expo-react-native-boilerplate) | Expo / React Native starter — Expo Router, Zustand, NativeWind |
 | [express-boilerplate](https://github.com/kuraykaraaslan/express-boilerplate) | Express + TypeScript backend starter — routing, middleware, error handling |
+| [kui-react](https://github.com/kuraykaraaslan/kui-react) | Reusable React components for building modern web applications |
+| [kui-ejs](https://github.com/kuraykaraaslan/kui-ejs) | Reusable Express + EJS components for server-rendered web applications |
 
 ---
 
