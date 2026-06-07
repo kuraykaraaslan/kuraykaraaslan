@@ -52,6 +52,19 @@ Based in Turkey. Available for consulting and contract work.
 
 ---
 
+### npm Packages
+
+Standalone, framework-agnostic UI packages — vanilla TypeScript core + optional React subpath.
+
+| Package | Description |
+|---|---|
+| [`@kuraykaraaslan/kui-viewer`](https://www.npmjs.com/package/@kuraykaraaslan/kui-viewer) · [GitHub](https://github.com/kuraykaraaslan/kui-viewer) | Browser-based IFC/BIM 3D viewer — Three.js · web-ifc · @thatopen/fragments |
+| [`@kuraykaraaslan/kui-calendar`](https://www.npmjs.com/package/@kuraykaraaslan/kui-calendar) · [GitHub](https://github.com/kuraykaraaslan/kui-calendar) | Calendar / scheduler — month/week/day/agenda views, RRULE recurrence, drag create/move/resize |
+| [`@kuraykaraaslan/kui-gantt`](https://www.npmjs.com/package/@kuraykaraaslan/kui-gantt) · [GitHub](https://github.com/kuraykaraaslan/kui-gantt) | Gantt chart — WBS tree, dependency arrows, critical path, drag/resize, baselines, export |
+| [`@kuraykaraaslan/kui-videoplayer`](https://www.npmjs.com/package/@kuraykaraaslan/kui-videoplayer) · [GitHub](https://github.com/kuraykaraaslan/kui-videoplayer) | Video player — HLS/DASH-ready, subtitle overlay, speed control, Google Cast, fullscreen, keyboard shortcuts |
+
+---
+
 ### Open Source
 
 | Repo | Description |
