@@ -1,0 +1,72 @@
+name: Refresh camo cache
+
+# GitHub, README'deki dis gorselleri camo.githubusercontent.com uzerinden
+# proxy'leyip cache'ler. Dinamik widget'lar (orn. https://kuray.dev/api/widget/posts)
+# bu yuzden guncel gorunmez. Bu job ilgili camo URL'lerini PURGE eder.
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # her gun 03:00 UTC (06:00 TR)
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  # Sadece bu desene uyan (hex-decode edilmis) hedef URL'ler purge edilir.
+  # Hepsini purge etmek icin: '.'
+  TARGET_PATTERN: 'kuray\.dev/api/widget/'
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge camo URLs found in the rendered README
+        run: |
+          set -euo pipefail
+
+          html=$(curl -sfL --retry 3 \
+            -H "Accept: application/vnd.github.html+json" \
+            -H "Authorization: Bearer ${{ github.token }}" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/readme")
+
+          urls=$(printf '%s' "$html" \
+            | grep -oE 'https://camo\.githubusercontent\.com/[^"'"'"'<> ]+' \
+            | sort -u || true)
+
+          if [ -z "$urls" ]; then
+            echo "::warning::Rendered README'de camo URL bulunamadi."
+            exit 0
+          fi
+
+          found=0
+          fail=0
+          while IFS= read -r url; do
+            [ -n "$url" ] || continue
+            # camo path'inin son parcasi, hedef URL'nin hex-encode edilmis hali
+            target=$(printf '%s' "${url##*/}" | xxd -r -p 2>/dev/null || true)
+            case "$target" in
+              *[!\ -~]*|'') target="<decode edilemedi>" ;;
+            esac
+
+            if ! printf '%s' "$target" | grep -qE "$TARGET_PATTERN"; then
+              echo "skip   $target"
+              continue
+            fi
+
+            found=$((found + 1))
+            code=$(curl -s -o /tmp/purge.out -w '%{http_code}' -X PURGE "$url")
+            echo "PURGE  $target -> HTTP $code $(cat /tmp/purge.out)"
+            case "$code" in
+              2*) ;;
+              *) fail=1 ;;
+            esac
+          done <<< "$urls"
+
+          if [ "$found" -eq 0 ]; then
+            echo "::warning::TARGET_PATTERN ('$TARGET_PATTERN') ile eslesen camo URL yok."
+          fi
+          exit $fail
