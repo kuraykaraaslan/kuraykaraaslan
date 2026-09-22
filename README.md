@@ -10,58 +10,72 @@ Based in Turkey. Available for consulting and contract work.
 
 ---
 
+## KUI — one design system, every runtime
+
+<p>
+<a href="https://kui-react.kuray.dev"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-react/main/brand/mark.svg" width="44" alt="KUIreact"/></a>&nbsp;
+<a href="https://kui-ejs.kuray.dev"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-ejs/main/brand/mark.svg" width="44" alt="KUIejs"/></a>&nbsp;
+<a href="https://kui-native.kuray.dev"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-native/main/brand/mark.svg" width="44" alt="KUInative"/></a>&nbsp;
+<a href="https://kui-viewer.kuray.dev"><img src="https://kui-viewer.kuray.dev/favicon.svg" width="44" alt="kui-viewer"/></a>&nbsp;
+<a href="https://kui-calendar.kuray.dev"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-calendar/main/brand/mark.svg" width="44" alt="kui-calendar"/></a>&nbsp;
+<a href="https://kui-gantt.kuray.dev"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-gantt/main/brand/mark.svg" width="44" alt="kui-gantt"/></a>&nbsp;
+<a href="https://kui-player.kuray.dev"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-player/main/brand/mark.svg" width="44" alt="kui-player"/></a>
+</p>
+
+**KUI** is my component system, built once and shipped to every runtime I deliver on. The UI kits share one semantic token contract, so a screen designed in one kit looks the same in the others: the same component API and the same tokens, whether it runs in a browser, on a server or on a phone. The standalone packages extend the family for heavy, domain-specific UI.
+
+Every member carries the same branching-K mark. Its second color says what that package is for.
+
+#### UI kits
+
+| | Kit | Runtime | What's inside | |
+|:-:|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-react/main/brand/mark.svg" width="28"/> | **KUIreact** | Next.js 16 · React 19 · Tailwind 4 | 315 components · 18 industry themes | [Live demo](https://kui-react.kuray.dev) · [GitHub](https://github.com/kuraykaraaslan/kui-react) |
+| <img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-ejs/main/brand/mark.svg" width="28"/> | **KUIejs** | Express · EJS · Tailwind 4 | 206 components · 5 domain themes, server-rendered | [Live demo](https://kui-ejs.kuray.dev) · [GitHub](https://github.com/kuraykaraaslan/kui-ejs) |
+| <img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-native/main/brand/mark.svg" width="28"/> | **KUInative** | Expo · React Native · NativeWind | 59 components, 1:1 with KUIreact · iOS, Android & web | [Live demo](https://kui-native.kuray.dev) · [GitHub](https://github.com/kuraykaraaslan/kui-native) |
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<a href="https://kui-react.kuray.dev/theme/commerce"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-react/main/public/assets/img/screenshot-commerce.png" width="49%"/></a><a href="https://kui-react.kuray.dev/theme/fintech"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-react/main/public/assets/img/screenshot-fintech.png" width="49%"/></a>
+<br/>
+<a href="https://kui-react.kuray.dev/theme/social"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-react/main/public/assets/img/screenshot-social.png" width="49%"/></a><a href="https://kui-react.kuray.dev/theme/travel"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-react/main/public/assets/img/screenshot-travel.png" width="49%"/></a>
+
+**KUIreact** · industry themes
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://kui-ejs.kuray.dev/theme/common"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-ejs/main/public/assets/img/screenshot-common.png" width="49%"/></a><a href="https://kui-ejs.kuray.dev/theme/invoice"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-ejs/main/public/assets/img/screenshot-invoice.png" width="49%"/></a>
+<br/>
+<a href="https://kui-ejs.kuray.dev/theme/modem"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-ejs/main/public/assets/img/screenshot-modem.png" width="49%"/></a><a href="https://kui-ejs.kuray.dev/theme/api-doc"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-ejs/main/public/assets/img/screenshot-api-doc.png" width="49%"/></a>
+
+**KUIejs** · domain themes
+
+</td>
+</tr>
+</table>
+
+#### Standalone packages
+
+Each package has a framework-free TypeScript core and an optional React subpath.
+
+| | Package | What it does | |
+|:-:|---|---|---|
+| <img src="https://kui-viewer.kuray.dev/favicon.svg" width="28"/> | [`@kuraykaraaslan/kui-viewer`](https://www.npmjs.com/package/@kuraykaraaslan/kui-viewer) | IFC/BIM 3D viewer in the browser — Three.js · web-ifc · @thatopen/fragments | [Live demo](https://kui-viewer.kuray.dev) · [npm](https://www.npmjs.com/package/@kuraykaraaslan/kui-viewer) |
+| <img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-calendar/main/brand/mark.svg" width="28"/> | [`@kuraykaraaslan/kui-calendar`](https://www.npmjs.com/package/@kuraykaraaslan/kui-calendar) | Calendar / scheduler — month, week, day, agenda & resource views, RRULE recurrence, drag to create, move and resize | [Live demo](https://kui-calendar.kuray.dev) · [npm](https://www.npmjs.com/package/@kuraykaraaslan/kui-calendar) · [GitHub](https://github.com/kuraykaraaslan/kui-calendar) |
+| <img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-gantt/main/brand/mark.svg" width="28"/> | **kui-gantt** | Gantt chart — WBS tree, dependency arrows, critical path, drag/resize, baselines, export | [Live demo](https://kui-gantt.kuray.dev) · [GitHub](https://github.com/kuraykaraaslan/kui-gantt) |
+| <img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-player/main/brand/mark.svg" width="28"/> | **kui-player** | Video player — hls.js/dash.js adapters, subtitle overlay, speed control, Picture-in-Picture, touch gestures, Google Cast | [Live demo](https://kui-player.kuray.dev) · [GitHub](https://github.com/kuraykaraaslan/kui-player) |
+
+---
+
 ### What I Build
 
 - **SaaS Platforms** — Multi-tenant architecture, subscription billing, SSO, RBAC
 - **Enterprise Web Apps** — Next.js App Router, Spring Boot, REST & event-driven APIs  
 - **Mobile Apps** — Expo / React Native, cross-platform
 - **Internal Tools** — Admin dashboards, reporting, workflow automation
-
----
-
-### Component Libraries
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### KUIReact
-
-<a href="https://kui-react.kuray.dev/theme/commerce"><img src="https://raw.githubusercontent.com/kuraykaraaslan/01_NextJS_Components/main/public/assets/img/screenshot-commerce.png" width="49%"/></a><a href="https://kui-react.kuray.dev/theme/fintech"><img src="https://raw.githubusercontent.com/kuraykaraaslan/01_NextJS_Components/main/public/assets/img/screenshot-fintech.png" width="49%"/></a>
-<br/>
-<a href="https://kui-react.kuray.dev/theme/social"><img src="https://raw.githubusercontent.com/kuraykaraaslan/01_NextJS_Components/main/public/assets/img/screenshot-social.png" width="49%"/></a><a href="https://kui-react.kuray.dev/theme/travel"><img src="https://raw.githubusercontent.com/kuraykaraaslan/01_NextJS_Components/main/public/assets/img/screenshot-travel.png" width="49%"/></a>
-
-**Next.js 16 · React 19 · Tailwind 4**  
-15 industry themes · 100+ components
-
-</td>
-<td width="50%" align="center">
-
-### KUIExpress
-
-<a href="https://kui-ejs.kuray.dev/theme/common"><img src="https://raw.githubusercontent.com/kuraykaraaslan/02_EJS_Components/main/public/assets/img/screenshot-common.png" width="49%"/></a><a href="https://kui-ejs.kuray.dev/theme/invoice"><img src="https://raw.githubusercontent.com/kuraykaraaslan/02_EJS_Components/main/public/assets/img/screenshot-invoice.png" width="49%"/></a>
-<br/>
-<a href="https://kui-ejs.kuray.dev/theme/modem"><img src="https://raw.githubusercontent.com/kuraykaraaslan/02_EJS_Components/main/public/assets/img/screenshot-modem.png" width="49%"/></a><a href="https://kui-ejs.kuray.dev/theme/api-doc"><img src="https://raw.githubusercontent.com/kuraykaraaslan/02_EJS_Components/main/public/assets/img/screenshot-api-doc.png" width="49%"/></a>
-
-**Express · EJS · Node.js · Tailwind 4**  
-5 domain themes · 150+ components
-
-</td>
-</tr>
-</table>
-
----
-
-### npm Packages
-
-Standalone, framework-agnostic UI packages — vanilla TypeScript core + optional React subpath.
-
-| Package | Description |
-|---|---|
-| [`@kuraykaraaslan/kui-viewer`](https://www.npmjs.com/package/@kuraykaraaslan/kui-viewer) · [GitHub](https://github.com/kuraykaraaslan/kui-viewer) | Browser-based IFC/BIM 3D viewer — Three.js · web-ifc · @thatopen/fragments |
-| [`@kuraykaraaslan/kui-calendar`](https://www.npmjs.com/package/@kuraykaraaslan/kui-calendar) · [GitHub](https://github.com/kuraykaraaslan/kui-calendar) | Calendar / scheduler — month/week/day/agenda views, RRULE recurrence, drag create/move/resize |
-| [`@kuraykaraaslan/kui-gantt`](https://www.npmjs.com/package/@kuraykaraaslan/kui-gantt) · [GitHub](https://github.com/kuraykaraaslan/kui-gantt) | Gantt chart — WBS tree, dependency arrows, critical path, drag/resize, baselines, export |
-| [`@kuraykaraaslan/kui-videoplayer`](https://www.npmjs.com/package/@kuraykaraaslan/kui-videoplayer) · [GitHub](https://github.com/kuraykaraaslan/kui-videoplayer) | Video player — HLS/DASH-ready, subtitle overlay, speed control, Google Cast, fullscreen, keyboard shortcuts |
 
 ---
 
@@ -72,8 +86,7 @@ Standalone, framework-agnostic UI packages — vanilla TypeScript core + optiona
 | [next-boilerplate](https://github.com/kuraykaraaslan/next-boilerplate) | Multi-tenant SaaS starter — auth, payments, notifications, RBAC, dual-DB |
 | [expo-react-native-boilerplate](https://github.com/kuraykaraaslan/expo-react-native-boilerplate) | Expo / React Native starter — Expo Router, Zustand, NativeWind |
 | [express-boilerplate](https://github.com/kuraykaraaslan/express-boilerplate) | Express + TypeScript backend starter — routing, middleware, error handling |
-| [KUIreact](https://github.com/kuraykaraaslan/kui-react) | Reusable React components for building modern web applications |
-| [KUIejs](https://github.com/kuraykaraaslan/kui-ejs) | Reusable Express + EJS components for server-rendered web applications |
+| [learn-platform](https://github.com/kuraykaraaslan/learn-platform) | Knowledge platform for interns and junior developers — [learn.kuray.dev](https://learn.kuray.dev) |
 
 ---
 
