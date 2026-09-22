@@ -93,7 +93,7 @@ Each package has a framework-free TypeScript core and an optional React subpath.
 
 | Product | Description |
 |---|---|
-| **next-boilerplate** | Production-ready multi-tenant SaaS starter — auth, payments, notifications, RBAC, dual-DB. Licensed commercially; [get in touch](mailto:kuraykaraaslan@gmail.com?subject=next-boilerplate) for access. |
+| [**next-boilerplate**](https://next-boilerplate.kuray.dev) | Production-ready multi-tenant SaaS starter — auth, payments, notifications, RBAC, dual-DB. Licensed commercially; [next-boilerplate.kuray.dev](https://next-boilerplate.kuray.dev) · [get in touch](mailto:kuraykaraaslan@gmail.com?subject=next-boilerplate) for access. |
 
 ---
 
