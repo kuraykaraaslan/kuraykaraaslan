@@ -83,10 +83,17 @@ Each package has a framework-free TypeScript core and an optional React subpath.
 
 | Repo | Description |
 |---|---|
-| [next-boilerplate](https://github.com/kuraykaraaslan/next-boilerplate) | Multi-tenant SaaS starter — auth, payments, notifications, RBAC, dual-DB |
 | [expo-react-native-boilerplate](https://github.com/kuraykaraaslan/expo-react-native-boilerplate) | Expo / React Native starter — Expo Router, Zustand, NativeWind |
 | [express-boilerplate](https://github.com/kuraykaraaslan/express-boilerplate) | Express + TypeScript backend starter — routing, middleware, error handling |
 | [learn-platform](https://github.com/kuraykaraaslan/learn-platform) | Knowledge platform for interns and junior developers — [learn.kuray.dev](https://learn.kuray.dev) |
+
+---
+
+### Premium
+
+| Product | Description |
+|---|---|
+| **next-boilerplate** | Production-ready multi-tenant SaaS starter — auth, payments, notifications, RBAC, dual-DB. Licensed commercially; [get in touch](mailto:kuraykaraaslan@gmail.com?subject=next-boilerplate) for access. |
 
 ---
 
