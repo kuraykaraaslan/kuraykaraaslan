@@ -12,16 +12,6 @@ Based in Turkey. Available for consulting and contract work.
 
 ## KUI — one design system, every runtime
 
-<p>
-<a href="https://kui-react.kuray.dev"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-react/main/brand/mark.svg" width="44" alt="KUIreact"/></a>&nbsp;
-<a href="https://kui-ejs.kuray.dev"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-ejs/main/brand/mark.svg" width="44" alt="KUIejs"/></a>&nbsp;
-<a href="https://kui-native.kuray.dev"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-native/main/brand/mark.svg" width="44" alt="KUInative"/></a>&nbsp;
-<a href="https://kui-viewer.kuray.dev"><img src="https://kui-viewer.kuray.dev/favicon.svg" width="44" alt="kui-viewer"/></a>&nbsp;
-<a href="https://kui-calendar.kuray.dev"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-calendar/main/brand/mark.svg" width="44" alt="kui-calendar"/></a>&nbsp;
-<a href="https://kui-gantt.kuray.dev"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-gantt/main/brand/mark.svg" width="44" alt="kui-gantt"/></a>&nbsp;
-<a href="https://kui-player.kuray.dev"><img src="https://raw.githubusercontent.com/kuraykaraaslan/kui-player/main/brand/mark.svg" width="44" alt="kui-player"/></a>
-</p>
-
 **KUI** is my component system, built once and shipped to every runtime I deliver on. The UI kits share one semantic token contract, so a screen designed in one kit looks the same in the others: the same component API and the same tokens, whether it runs in a browser, on a server or on a phone. The standalone packages extend the family for heavy, domain-specific UI.
 
 Every member carries the same branching-K mark. Its second color says what that package is for.
