@@ -117,7 +117,7 @@ Each package has a framework-free TypeScript core and an optional React subpath.
 ### Latest Posts
 
 <a href="https://kuray.dev/blog" target="_blank">
-<img src="https://kuray.dev/api/widget/posts" alt="posts" />
+<img src="static/img/posts.svg" alt="Latest blog posts from kuray.dev" />
 </a>
 
 ---

@@ -1,0 +1,53 @@
+name: Update posts widget
+
+# README'deki "Latest Posts" widget'i dis bir URL'den geliyordu ve GitHub'in
+# camo proxy'si onu cache'liyordu. Bu job widget'i her gun indirip repoya
+# commit'ler; README repodaki dosyayi gosterir, bu yuzden cache sorunu olmaz.
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # her gun 03:00 UTC (06:00 TR)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  WIDGET_URL: 'https://kuray.dev/api/widget/posts'
+  OUTPUT: 'static/img/posts.svg'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download widget
+        run: |
+          set -euo pipefail
+          tmp=$(mktemp)
+          ctype=$(curl -sfL --retry 3 --retry-delay 5 -o "$tmp" \
+            -w '%{content_type}' "$WIDGET_URL")
+          echo "Content-Type: $ctype"
+
+          case "$ctype" in
+            image/svg+xml*) ;;
+            *) echo "::error::Beklenen image/svg+xml, gelen: $ctype"; exit 1 ;;
+          esac
+          grep -q '<svg' "$tmp" || { echo "::error::Yanit gecerli SVG degil"; exit 1; }
+
+          mkdir -p "$(dirname "$OUTPUT")"
+          mv "$tmp" "$OUTPUT"
+
+      - name: Commit if changed
+        run: |
+          set -euo pipefail
+          git add "$OUTPUT"
+          if git diff --cached --quiet; then
+            echo "Degisiklik yok."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh latest posts widget"
+          git push
